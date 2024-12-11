@@ -1,4 +1,5 @@
 # Insurance_Charges_Prediction
+![pr0_8F6704231ABD53F1688E](https://github.com/user-attachments/assets/437479af-9c42-4bc9-921a-bc8387fbbd67)
 
 **Business Problem** - Background 
 The objective of proposed work is to predict the insurance charges of a person and
